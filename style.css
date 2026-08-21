@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(223, 195, 55, 0.956);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blog-card{
+    width: 400px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 0px black;
+}
+.blog-card-img{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+button{
+    display: block;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    background-color:rgba(223, 195, 55, 0.956);
+    font-size: 20px;
+    border: 0px;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.profil{
+    display: flex;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    display: block;
+    margin-left: 20px;
+    font-size: 15px;
+}
+.avatar-img{
+    width: 50px;
+    height: 35px;
+}
