@@ -3,6 +3,6 @@ Blog Preview Card
  ce projet [Blog link](https://codecuriosity0-bit.github.io/blog-preview-card/)
  # Ce projet est réaliser par : CODE&CURIOSITY
  # les Technologies utilusées
- ##-[HTML](https://www.htmldog.com)
- ##_[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+ ## [HTML](https://www.htmldog.com)
+ ## [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
  
